@@ -1,0 +1,16 @@
+.box-grid{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    grid-template-rows: 20vh 80vh;
+    background-color: #fcdee0;
+    gap: 10px;
+}
+
+.logo{
+    height: 99%;
+    width: auto;
+}
+
+h1{
+    text-align: center;
+}
